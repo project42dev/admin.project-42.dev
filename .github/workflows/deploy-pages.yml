@@ -20,10 +20,19 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
+      # This repository's main branch IS the exported site (published here by
+      # learn.project-42.dev's export-github-pages.mjs --domain/--routes mode,
+      # AB#6851). No app build step - just stage everything except CI config
+      # into a clean directory so .git isn't swept into the Pages artifact.
       - run: |
           mkdir -p dist/pages
-          cp index.html 404.html CNAME dist/pages/
-          touch dist/pages/.nojekyll
+          shopt -s dotglob
+          for entry in *; do
+            case "$entry" in
+              dist|.git|.github) continue ;;
+            esac
+            cp -r "$entry" dist/pages/
+          done
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
         with:
           path: dist/pages

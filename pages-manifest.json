@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "canonicalDomain": "admin.project-42.dev",
+  "htmlRoutes": [
+    "/admin"
+  ],
+  "endpoints": []
+}
