@@ -30,15 +30,15 @@
     "file": "_next/static/chunks/rolldown-runtime-QTnfLwEv.js",
     "name": "rolldown-runtime"
   },
-  "_subdomainLinks-BJ4ejCqf.js": {
-    "file": "_next/static/chunks/subdomainLinks-BJ4ejCqf.js",
+  "_subdomainLinks-C0RW18rR.js": {
+    "file": "_next/static/chunks/subdomainLinks-C0RW18rR.js",
     "name": "subdomainLinks",
     "imports": [
       "virtual:vinext-app-browser-entry"
     ]
   },
   "app/account/github/callback/page.tsx": {
-    "file": "_next/static/chunks/page-Jby0h5cv.js",
+    "file": "_next/static/chunks/page-DS9nMYan.js",
     "name": "page",
     "src": "app/account/github/callback/page.tsx",
     "isDynamicEntry": true,
@@ -46,7 +46,7 @@
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "_AuthProvider-CkHmqzx3.js",
-      "_subdomainLinks-BJ4ejCqf.js"
+      "_subdomainLinks-C0RW18rR.js"
     ]
   },
   "app/auth/callback/page.tsx": {
@@ -61,7 +61,7 @@
     ]
   },
   "app/components/AccountDashboard.tsx": {
-    "file": "_next/static/chunks/AccountDashboard-vadRy0R2.js",
+    "file": "_next/static/chunks/AccountDashboard-DzxGWkyn.js",
     "name": "AccountDashboard",
     "src": "app/components/AccountDashboard.tsx",
     "isDynamicEntry": true,
@@ -69,7 +69,7 @@
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "_AuthProvider-CkHmqzx3.js",
-      "_subdomainLinks-BJ4ejCqf.js",
+      "_subdomainLinks-C0RW18rR.js",
       "node_modules/vinext/dist/shims/link.js",
       "_dist-EP3O9Z9R.js",
       "app/components/ProfilePreferencesProvider.tsx"
@@ -107,7 +107,7 @@
     ]
   },
   "app/components/KnowledgeCheck.tsx": {
-    "file": "_next/static/chunks/KnowledgeCheck-B74Nmll-.js",
+    "file": "_next/static/chunks/KnowledgeCheck-C1g4nDhA.js",
     "name": "KnowledgeCheck",
     "src": "app/components/KnowledgeCheck.tsx",
     "isDynamicEntry": true,
@@ -131,7 +131,7 @@
     ]
   },
   "app/components/PathModuleList.tsx": {
-    "file": "_next/static/chunks/PathModuleList--CcPsWvB.js",
+    "file": "_next/static/chunks/PathModuleList-DqjlX2X7.js",
     "name": "PathModuleList",
     "src": "app/components/PathModuleList.tsx",
     "isDynamicEntry": true,
@@ -142,7 +142,7 @@
     ]
   },
   "app/components/ProfileDashboard.tsx": {
-    "file": "_next/static/chunks/ProfileDashboard-leDvyYKn.js",
+    "file": "_next/static/chunks/ProfileDashboard-BVj4CcVs.js",
     "name": "ProfileDashboard",
     "src": "app/components/ProfileDashboard.tsx",
     "isDynamicEntry": true,
@@ -150,7 +150,7 @@
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "_AuthProvider-CkHmqzx3.js",
-      "_subdomainLinks-BJ4ejCqf.js",
+      "_subdomainLinks-C0RW18rR.js",
       "node_modules/vinext/dist/shims/link.js",
       "_dist-EP3O9Z9R.js",
       "app/components/ProgressProvider.tsx"
@@ -190,7 +190,7 @@
     ]
   },
   "app/components/ProgressSnapshot.tsx": {
-    "file": "_next/static/chunks/ProgressSnapshot-D3MmGL2F.js",
+    "file": "_next/static/chunks/ProgressSnapshot-Cw_ErVKf.js",
     "name": "ProgressSnapshot",
     "src": "app/components/ProgressSnapshot.tsx",
     "isDynamicEntry": true,
@@ -202,7 +202,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-YmQ6uKoL.js",
+    "file": "_next/static/chunks/layout-segment-context-BnuSYyCO.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -214,7 +214,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "_next/static/chunks/link-6qNtR-My.js",
+    "file": "_next/static/chunks/link-DEXN79DU.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -225,7 +225,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-Bxc_kcqU.js",
+    "file": "_next/static/chunks/index-CJyBdecW.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
