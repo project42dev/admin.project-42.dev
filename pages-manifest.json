@@ -2,7 +2,9 @@
   "schemaVersion": 1,
   "canonicalDomain": "admin.project-42.dev",
   "htmlRoutes": [
-    "/admin"
+    "/admin",
+    "/admin/logs",
+    "/admin/settings"
   ],
   "endpoints": []
 }
