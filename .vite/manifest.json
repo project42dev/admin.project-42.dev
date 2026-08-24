@@ -1,20 +1,20 @@
 {
-  "_AuthProvider-MR5E-BzG.js": {
-    "file": "_next/static/chunks/AuthProvider-MR5E-BzG.js",
+  "_AuthProvider-CkT6BXS6.js": {
+    "file": "_next/static/chunks/AuthProvider-CkT6BXS6.js",
     "name": "AuthProvider",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js"
     ]
   },
-  "_RequireAuth-hU5470on.js": {
-    "file": "_next/static/chunks/RequireAuth-hU5470on.js",
+  "_RequireAuth-DxVM7SSN.js": {
+    "file": "_next/static/chunks/RequireAuth-DxVM7SSN.js",
     "name": "RequireAuth",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "virtual:vinext-app-browser-entry",
-      "_AuthProvider-MR5E-BzG.js"
+      "_AuthProvider-CkT6BXS6.js"
     ]
   },
   "_dist-dKcSWGFC.js": {
@@ -43,53 +43,53 @@
     "file": "_next/static/chunks/rolldown-runtime-QTnfLwEv.js",
     "name": "rolldown-runtime"
   },
-  "_subdomainLinks-BR6BfRb5.js": {
-    "file": "_next/static/chunks/subdomainLinks-BR6BfRb5.js",
+  "_subdomainLinks-myXvf6HL.js": {
+    "file": "_next/static/chunks/subdomainLinks-myXvf6HL.js",
     "name": "subdomainLinks",
     "imports": [
       "virtual:vinext-app-browser-entry"
     ]
   },
   "app/account/github/callback/page.tsx": {
-    "file": "_next/static/chunks/page-sYMMaoUY.js",
+    "file": "_next/static/chunks/page-CF8KIAyx.js",
     "name": "page",
     "src": "app/account/github/callback/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
-      "_AuthProvider-MR5E-BzG.js",
-      "_subdomainLinks-BR6BfRb5.js"
+      "_AuthProvider-CkT6BXS6.js",
+      "_subdomainLinks-myXvf6HL.js"
     ]
   },
   "app/auth/callback/page.tsx": {
-    "file": "_next/static/chunks/page-Bbgjk2H4.js",
+    "file": "_next/static/chunks/page-ChFaary0.js",
     "name": "page",
     "src": "app/auth/callback/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
-      "_AuthProvider-MR5E-BzG.js"
+      "_AuthProvider-CkT6BXS6.js"
     ]
   },
   "app/components/AccountDashboard.tsx": {
-    "file": "_next/static/chunks/AccountDashboard-CR01a8fq.js",
+    "file": "_next/static/chunks/AccountDashboard-Crzs-iXj.js",
     "name": "AccountDashboard",
     "src": "app/components/AccountDashboard.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
-      "_AuthProvider-MR5E-BzG.js",
-      "_subdomainLinks-BR6BfRb5.js",
+      "_AuthProvider-CkT6BXS6.js",
+      "_subdomainLinks-myXvf6HL.js",
       "node_modules/vinext/dist/shims/link.js",
       "_dist-dKcSWGFC.js",
       "app/components/ProfilePreferencesProvider.tsx"
     ]
   },
   "app/components/CapstoneSubmission.tsx": {
-    "file": "_next/static/chunks/CapstoneSubmission-BRl4AOvq.js",
+    "file": "_next/static/chunks/CapstoneSubmission-xty4XR8w.js",
     "name": "CapstoneSubmission",
     "src": "app/components/CapstoneSubmission.tsx",
     "isDynamicEntry": true,
@@ -120,7 +120,7 @@
     ]
   },
   "app/components/KnowledgeCheck.tsx": {
-    "file": "_next/static/chunks/KnowledgeCheck-HSboRAaR.js",
+    "file": "_next/static/chunks/KnowledgeCheck-C_OZKQhb.js",
     "name": "KnowledgeCheck",
     "src": "app/components/KnowledgeCheck.tsx",
     "isDynamicEntry": true,
@@ -133,7 +133,7 @@
     ]
   },
   "app/components/ModuleVisitTracker.tsx": {
-    "file": "_next/static/chunks/ModuleVisitTracker-DZ10Gwfd.js",
+    "file": "_next/static/chunks/ModuleVisitTracker-Cwf64GoJ.js",
     "name": "ModuleVisitTracker",
     "src": "app/components/ModuleVisitTracker.tsx",
     "isDynamicEntry": true,
@@ -144,7 +144,7 @@
     ]
   },
   "app/components/PathModuleList.tsx": {
-    "file": "_next/static/chunks/PathModuleList-B7AYU2X9.js",
+    "file": "_next/static/chunks/PathModuleList-Bi6SKNaO.js",
     "name": "PathModuleList",
     "src": "app/components/PathModuleList.tsx",
     "isDynamicEntry": true,
@@ -155,15 +155,15 @@
     ]
   },
   "app/components/ProfileDashboard.tsx": {
-    "file": "_next/static/chunks/ProfileDashboard-DRNGxFu5.js",
+    "file": "_next/static/chunks/ProfileDashboard-COcS4K7A.js",
     "name": "ProfileDashboard",
     "src": "app/components/ProfileDashboard.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
-      "_AuthProvider-MR5E-BzG.js",
-      "_subdomainLinks-BR6BfRb5.js",
+      "_AuthProvider-CkT6BXS6.js",
+      "_subdomainLinks-myXvf6HL.js",
       "node_modules/vinext/dist/shims/link.js",
       "_dist-dKcSWGFC.js",
       "app/components/ProgressProvider.tsx"
@@ -180,7 +180,7 @@
     ]
   },
   "app/components/ProgressMigration.tsx": {
-    "file": "_next/static/chunks/ProgressMigration-YJZHyQ-S.js",
+    "file": "_next/static/chunks/ProgressMigration-DMtXH--y.js",
     "name": "ProgressMigration",
     "src": "app/components/ProgressMigration.tsx",
     "isDynamicEntry": true,
@@ -191,19 +191,19 @@
     ]
   },
   "app/components/ProgressProvider.tsx": {
-    "file": "_next/static/chunks/ProgressProvider-CYVHlk9x.js",
+    "file": "_next/static/chunks/ProgressProvider-DET2ycWo.js",
     "name": "ProgressProvider",
     "src": "app/components/ProgressProvider.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
-      "_AuthProvider-MR5E-BzG.js",
+      "_AuthProvider-CkT6BXS6.js",
       "_dist-dKcSWGFC.js"
     ]
   },
   "app/components/ProgressSnapshot.tsx": {
-    "file": "_next/static/chunks/ProgressSnapshot-D2qO0tM4.js",
+    "file": "_next/static/chunks/ProgressSnapshot-Bvz6pFAR.js",
     "name": "ProgressSnapshot",
     "src": "app/components/ProgressSnapshot.tsx",
     "isDynamicEntry": true,
@@ -215,7 +215,7 @@
     ]
   },
   "app/components/SiteHeader.tsx": {
-    "file": "_next/static/chunks/SiteHeader-UK_6Ff67.js",
+    "file": "_next/static/chunks/SiteHeader-DM-UCTkM.js",
     "name": "SiteHeader",
     "src": "app/components/SiteHeader.tsx",
     "isDynamicEntry": true,
@@ -223,53 +223,53 @@
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "virtual:vinext-app-browser-entry",
-      "_AuthProvider-MR5E-BzG.js",
-      "_subdomainLinks-BR6BfRb5.js",
+      "_AuthProvider-CkT6BXS6.js",
+      "_subdomainLinks-myXvf6HL.js",
       "node_modules/vinext/dist/shims/link.js"
     ]
   },
   "app/import-progress/layout.tsx": {
-    "file": "_next/static/chunks/layout-DgHcSLhY.js",
+    "file": "_next/static/chunks/layout-Cm6_4gj1.js",
     "name": "layout",
     "src": "app/import-progress/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-hU5470on.js"
+      "_RequireAuth-DxVM7SSN.js"
     ]
   },
   "app/learn/[pathId]/[moduleId]/layout.tsx": {
-    "file": "_next/static/chunks/layout-Co1Ts0Z0.js",
+    "file": "_next/static/chunks/layout-BXhwoE1t.js",
     "name": "layout",
     "src": "app/learn/[pathId]/[moduleId]/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-hU5470on.js"
+      "_RequireAuth-DxVM7SSN.js"
     ]
   },
   "app/ondemand/[pathId]/[moduleId]/layout.tsx": {
-    "file": "_next/static/chunks/layout-Bm-6nZ2S.js",
+    "file": "_next/static/chunks/layout-B71wMwKi.js",
     "name": "layout",
     "src": "app/ondemand/[pathId]/[moduleId]/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-hU5470on.js"
+      "_RequireAuth-DxVM7SSN.js"
     ]
   },
   "app/profile/layout.tsx": {
-    "file": "_next/static/chunks/layout-DEfdT0V3.js",
+    "file": "_next/static/chunks/layout-D4Ys_r4T.js",
     "name": "layout",
     "src": "app/profile/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-hU5470on.js"
+      "_RequireAuth-DxVM7SSN.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-Dwz_Z_gC.js",
+    "file": "_next/static/chunks/layout-segment-context-DPPNaplS.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -281,7 +281,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "_next/static/chunks/link-DkAuqL7N.js",
+    "file": "_next/static/chunks/link-JD4NgshP.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -292,7 +292,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-Dnr2zbzw.js",
+    "file": "_next/static/chunks/index-RyoHG4xx.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -324,7 +324,7 @@
       "app/components/ProgressProvider.tsx",
       "app/import-progress/layout.tsx",
       "app/components/ModuleVisitTracker.tsx",
-      "_AuthProvider-MR5E-BzG.js"
+      "_AuthProvider-CkT6BXS6.js"
     ]
   }
 }
