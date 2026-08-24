@@ -7,8 +7,8 @@
       "_framework-BQUlGUOV.js"
     ]
   },
-  "_RequireAuth-XMHpPzsa.js": {
-    "file": "_next/static/chunks/RequireAuth-XMHpPzsa.js",
+  "_RequireAuth-CBMdy-aF.js": {
+    "file": "_next/static/chunks/RequireAuth-CBMdy-aF.js",
     "name": "RequireAuth",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
@@ -43,15 +43,15 @@
     "file": "_next/static/chunks/rolldown-runtime-QTnfLwEv.js",
     "name": "rolldown-runtime"
   },
-  "_subdomainLinks-BpGgHLJL.js": {
-    "file": "_next/static/chunks/subdomainLinks-BpGgHLJL.js",
+  "_subdomainLinks-B06xK2QI.js": {
+    "file": "_next/static/chunks/subdomainLinks-B06xK2QI.js",
     "name": "subdomainLinks",
     "imports": [
       "virtual:vinext-app-browser-entry"
     ]
   },
   "app/account/github/callback/page.tsx": {
-    "file": "_next/static/chunks/page-q2qv-tcL.js",
+    "file": "_next/static/chunks/page-BQTVxPio.js",
     "name": "page",
     "src": "app/account/github/callback/page.tsx",
     "isDynamicEntry": true,
@@ -59,17 +59,27 @@
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "_AuthProvider-CkT6BXS6.js",
-      "_subdomainLinks-BpGgHLJL.js"
+      "_subdomainLinks-B06xK2QI.js"
     ]
   },
-  "app/admin/layout.tsx": {
-    "file": "_next/static/chunks/layout-wC_Cv0XI.js",
-    "name": "layout",
-    "src": "app/admin/layout.tsx",
+  "app/admin/logs/page.tsx": {
+    "file": "_next/static/chunks/page-DTJiuT1S.js",
+    "name": "page",
+    "src": "app/admin/logs/page.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_framework-BQUlGUOV.js",
-      "_RequireAuth-XMHpPzsa.js"
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-BQUlGUOV.js"
+    ]
+  },
+  "app/admin/settings/page.tsx": {
+    "file": "_next/static/chunks/page-COCHOBtC.js",
+    "name": "page",
+    "src": "app/admin/settings/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-BQUlGUOV.js"
     ]
   },
   "app/auth/callback/page.tsx": {
@@ -84,7 +94,7 @@
     ]
   },
   "app/components/AccountDashboard.tsx": {
-    "file": "_next/static/chunks/AccountDashboard-BmW89P_r.js",
+    "file": "_next/static/chunks/AccountDashboard-CEU7pPVV.js",
     "name": "AccountDashboard",
     "src": "app/components/AccountDashboard.tsx",
     "isDynamicEntry": true,
@@ -92,7 +102,7 @@
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "_AuthProvider-CkT6BXS6.js",
-      "_subdomainLinks-BpGgHLJL.js",
+      "_subdomainLinks-B06xK2QI.js",
       "node_modules/vinext/dist/shims/link.js",
       "_dist-dKcSWGFC.js",
       "app/components/ProfilePreferencesProvider.tsx"
@@ -129,18 +139,8 @@
       "_framework-BQUlGUOV.js"
     ]
   },
-  "app/components/HeaderMenu.tsx": {
-    "file": "_next/static/chunks/HeaderMenu-Coq_XY05.js",
-    "name": "HeaderMenu",
-    "src": "app/components/HeaderMenu.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-QTnfLwEv.js",
-      "_framework-BQUlGUOV.js"
-    ]
-  },
   "app/components/KnowledgeCheck.tsx": {
-    "file": "_next/static/chunks/KnowledgeCheck-BflwRsn8.js",
+    "file": "_next/static/chunks/KnowledgeCheck-D1OcnuVq.js",
     "name": "KnowledgeCheck",
     "src": "app/components/KnowledgeCheck.tsx",
     "isDynamicEntry": true,
@@ -164,7 +164,7 @@
     ]
   },
   "app/components/PathModuleList.tsx": {
-    "file": "_next/static/chunks/PathModuleList-DgJyy1CE.js",
+    "file": "_next/static/chunks/PathModuleList-DMADYQ_T.js",
     "name": "PathModuleList",
     "src": "app/components/PathModuleList.tsx",
     "isDynamicEntry": true,
@@ -175,7 +175,7 @@
     ]
   },
   "app/components/ProfileDashboard.tsx": {
-    "file": "_next/static/chunks/ProfileDashboard-B2KuoI6e.js",
+    "file": "_next/static/chunks/ProfileDashboard-jPwO3Oa0.js",
     "name": "ProfileDashboard",
     "src": "app/components/ProfileDashboard.tsx",
     "isDynamicEntry": true,
@@ -183,23 +183,10 @@
       "_rolldown-runtime-QTnfLwEv.js",
       "_framework-BQUlGUOV.js",
       "_AuthProvider-CkT6BXS6.js",
-      "_subdomainLinks-BpGgHLJL.js",
+      "_subdomainLinks-B06xK2QI.js",
       "node_modules/vinext/dist/shims/link.js",
       "_dist-dKcSWGFC.js",
       "app/components/ProgressProvider.tsx"
-    ]
-  },
-  "app/components/ProfileMenu.tsx": {
-    "file": "_next/static/chunks/ProfileMenu-pL-sMgkU.js",
-    "name": "ProfileMenu",
-    "src": "app/components/ProfileMenu.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-QTnfLwEv.js",
-      "_framework-BQUlGUOV.js",
-      "_AuthProvider-CkT6BXS6.js",
-      "node_modules/vinext/dist/shims/link.js",
-      "app/components/HeaderMenu.tsx"
     ]
   },
   "app/components/ProfilePreferencesProvider.tsx": {
@@ -236,7 +223,7 @@
     ]
   },
   "app/components/ProgressSnapshot.tsx": {
-    "file": "_next/static/chunks/ProgressSnapshot-Vrdsdc6a.js",
+    "file": "_next/static/chunks/ProgressSnapshot-DbjsXJpu.js",
     "name": "ProgressSnapshot",
     "src": "app/components/ProgressSnapshot.tsx",
     "isDynamicEntry": true,
@@ -247,48 +234,61 @@
       "app/components/ProgressProvider.tsx"
     ]
   },
+  "app/components/SiteHeader.tsx": {
+    "file": "_next/static/chunks/SiteHeader-B7z6Iq2b.js",
+    "name": "SiteHeader",
+    "src": "app/components/SiteHeader.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-QTnfLwEv.js",
+      "_framework-BQUlGUOV.js",
+      "virtual:vinext-app-browser-entry",
+      "_AuthProvider-CkT6BXS6.js",
+      "node_modules/vinext/dist/shims/link.js"
+    ]
+  },
   "app/import-progress/layout.tsx": {
-    "file": "_next/static/chunks/layout-Ch49byta.js",
+    "file": "_next/static/chunks/layout-HpxSa48N.js",
     "name": "layout",
     "src": "app/import-progress/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-XMHpPzsa.js"
+      "_RequireAuth-CBMdy-aF.js"
     ]
   },
   "app/learn/[pathId]/[moduleId]/layout.tsx": {
-    "file": "_next/static/chunks/layout-CbqnUCGQ.js",
+    "file": "_next/static/chunks/layout-BpJfNeOx.js",
     "name": "layout",
     "src": "app/learn/[pathId]/[moduleId]/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-XMHpPzsa.js"
+      "_RequireAuth-CBMdy-aF.js"
     ]
   },
   "app/ondemand/[pathId]/[moduleId]/layout.tsx": {
-    "file": "_next/static/chunks/layout-46i5p1tO.js",
+    "file": "_next/static/chunks/layout-BQZkyu_R.js",
     "name": "layout",
     "src": "app/ondemand/[pathId]/[moduleId]/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-XMHpPzsa.js"
+      "_RequireAuth-CBMdy-aF.js"
     ]
   },
   "app/profile/layout.tsx": {
-    "file": "_next/static/chunks/layout-DWxGQ_NG.js",
+    "file": "_next/static/chunks/layout-DW7b8IBa.js",
     "name": "layout",
     "src": "app/profile/layout.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-BQUlGUOV.js",
-      "_RequireAuth-XMHpPzsa.js"
+      "_RequireAuth-CBMdy-aF.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CyVhnuNR.js",
+    "file": "_next/static/chunks/layout-segment-context-e6xbNGX3.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -300,7 +300,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "_next/static/chunks/link-Bv55TxDd.js",
+    "file": "_next/static/chunks/link-IiJc7vaU.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -311,7 +311,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-ULXZTr3e.js",
+    "file": "_next/static/chunks/index-AHrP2ZpC.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -326,20 +326,20 @@
       "app/components/ProgressSnapshot.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/CapstoneSubmission.tsx",
+      "app/components/SiteHeader.tsx",
       "app/components/CopyCodeButton.tsx",
       "app/profile/layout.tsx",
+      "app/admin/logs/page.tsx",
       "app/learn/[pathId]/[moduleId]/layout.tsx",
-      "app/components/HeaderMenu.tsx",
       "app/components/PathModuleList.tsx",
       "app/components/KnowledgeCheck.tsx",
-      "app/admin/layout.tsx",
       "app/components/ProfileDashboard.tsx",
       "app/components/ProgressMigration.tsx",
       "app/account/github/callback/page.tsx",
       "app/ondemand/[pathId]/[moduleId]/layout.tsx",
+      "app/admin/settings/page.tsx",
       "app/components/DiagramViewer.tsx",
       "app/components/AccountDashboard.tsx",
-      "app/components/ProfileMenu.tsx",
       "node_modules/vinext/dist/shims/link.js",
       "app/auth/callback/page.tsx",
       "app/components/ProgressProvider.tsx",
