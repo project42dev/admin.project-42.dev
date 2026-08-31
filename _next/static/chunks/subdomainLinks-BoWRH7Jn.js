@@ -1,0 +1,1 @@
+function e(e){return e===`/admin`||e.startsWith(`/admin/`)?`https://admin.project-42.dev`:`https://project-42.dev`}function t(t){let n=e(t);return window.location.origin===n?t:`${n}${t}`}export{t};
